@@ -2,3 +2,5 @@
 *.pyc
 .DS_Store
 _site
+.Rproj.user
+2016-08-29-uri.Rproj
